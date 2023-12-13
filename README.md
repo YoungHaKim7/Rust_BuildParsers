@@ -7,3 +7,7 @@
 - KittyCAD's Rust Club [Episode 3] - Speeding Up Rust Code | KittyCAD
   - https://youtu.be/2IHPvPmzS8g?si=9ZYcJIrm4q3IXJU1
 
+
+# winnow(Parser)
+
+- https://docs.rs/winnow/latest/winnow/
