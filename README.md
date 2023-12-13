@@ -11,3 +11,6 @@
 # winnow(Parser)
 
 - https://docs.rs/winnow/latest/winnow/
+
+- fn.alphanumeric0 https://docs.rs/winnow/latest/winnow/ascii/fn.alphanumeric0.html
+- fn.alphanumeric1 https://docs.rs/winnow/latest/winnow/ascii/fn.alphanumeric1.html 
