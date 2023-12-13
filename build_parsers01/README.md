@@ -1,6 +1,13 @@
 # Result
 
 ```
+Hello, world!
+[src\main.rs:18] input = "width"
+[src\main.rs:19] actual = "width"
+[src\main.rs:20] expected = "width"
+```
+
+```
 $ cargo t
    Compiling build_parsers01 v0.1.0 (D:\Rust_BuildParsers\build_parsers01)
     Finished test [unoptimized + debuginfo] target(s) in 1.76s
